@@ -1,0 +1,6 @@
+
+ puff         :20
+ pizza        :65
+ cheese puff  :30
+ vada pav     :25
+ nudlooles    :50
